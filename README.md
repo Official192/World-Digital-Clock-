@@ -34,7 +34,7 @@ The World Digital Clock is a lightweight, responsive web application designed to
 - 📱 Fully Responsive: Works perfectly on mobile and desktop.
 - 🚀 Zero Dependencies: Single HTML file solution.
  
-
+<br>
 
 ## Author
 - **Muhammad Hanif** — [@official192](https://github.com/official192)
