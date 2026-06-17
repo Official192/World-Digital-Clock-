@@ -1,11 +1,15 @@
-<p align="center">
-# World-Digital-Clock
-</p>
+<div align="center">
+  <h1><b>Clock-Digital-Project</b></h1>
+</div>
 
 
 ![](https://img.shields.io/badge/css--blue?style=for-the-badge&logo=cssdesignawards&logoColor=blue)
 ![](https://img.shields.io/badge/Html--orange?style=for-the-badge&logo=html5&logoColor=orange)
 ![](https://img.shields.io/badge/Javascript--yellow?style=for-the-badge&logo=javascript)
+
+<br>
+<br>
+
 
 
 # About This Project
@@ -14,3 +18,13 @@ The World Digital Clock is a lightweight, responsive web application designed to
 
 # Demo
 https://official192.github.io/World-Digital-Clock-/
+<br>
+
+
+
+<br>
+
+
+
+# Author
+- Muhammad Hanif 
