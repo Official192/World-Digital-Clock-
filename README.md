@@ -16,18 +16,17 @@ A sleek, lightweight web application featuring a modern glassmorphism UI.
 </div>
 
 <br>
-<br>
-
 
 
 # About This Project
 The World Digital Clock is a lightweight, responsive web application designed to provide accurate timekeeping with a modern aesthetic. Built using vanilla JavaScript, it features a stunning "frosted glass" UI (Glassmorphism) that floats over a dynamic gradient background. It requires no external frameworks or libraries—just pure code.
 
+<br>
 
 # Demo
 **[Live Demo](https://official192.github.io/World-Digital-Clock-/)**
-<br>
 
+<br>
 
 # Feature
 - 🕐 Real-Time Updates: Refreshes every second for accuracy.
