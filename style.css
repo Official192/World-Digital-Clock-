@@ -1,0 +1,70 @@
+   /* 1. Reset and Modern Font Setup */
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            /* 2. Premium Dark Gradient Background */
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'JetBrains Mono', monospace; /* Tech look */
+            overflow: hidden;
+        }
+
+        /* 3. The Glass Card Container */
+        #ea {
+            background: rgba(255, 255, 255, 0.05); /* Transparent white */
+            backdrop-filter: blur(10px); /* Frosted glass effect */
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            
+            padding: 40px 60px;
+            border-radius: 20px;
+            text-align: center;
+            color: #ffffff;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            
+            /* Subtle floating animation */
+            animation: float 6s ease-in-out infinite;
+        }
+
+        /* 4. Styling the Text */
+        .date-part {
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+            color: #a0a0ff; /* Light Purple tint */
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .time-part {
+            font-size: 4rem; /* Huge time */
+            font-weight: 700;
+            background: -webkit-linear-gradient(#fff, #a0a0ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* 5. Floating Animation Keyframes */
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 600px) {
+            #ea { padding: 30px; width: 90%; }
+            .time-part { font-size: 2.5rem; }
+            .date-part { font-size: 1rem; }
+        }
