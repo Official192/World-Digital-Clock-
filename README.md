@@ -1,4 +1,7 @@
-#                                                                         World-Digital-Clock
+<p align="center">
+# World-Digital-Clock
+</p>
+
 
 ![](https://img.shields.io/badge/css--blue?style=for-the-badge&logo=cssdesignawards&logoColor=blue)
 ![](https://img.shields.io/badge/Html--orange?style=for-the-badge&logo=html5&logoColor=orange)
