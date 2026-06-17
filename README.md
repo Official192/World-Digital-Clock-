@@ -4,7 +4,7 @@
 
 
 <div align="center">
-A sleek, lightweight web application featuring a modern glassmorphism UI.
+
 </div>
 
 <br>
