@@ -10,7 +10,7 @@ A sleek, lightweight web application featuring a modern glassmorphism UI.
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/css--blue?style=for-the-badge&logo=cssdesignawards&logoColor=blue" alt="CSS">
+  <img src="https://img.shields.io/badge/css--1572B6?style=for-the-badge&logo=cssdesignawards&logoColor=blue" alt="CSS">
   <img src="https://img.shields.io/badge/Html--orange?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML">
   <img src="https://img.shields.io/badge/Javascript--yellow?style=for-the-badge&logo=javascript" alt="JS">
 </div>
